@@ -1,6 +1,3 @@
 # Libft
 Repository of my Libft project.
-```ruby
-this = "Ruby Code"
-puts "This is #{this}"
-```
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
