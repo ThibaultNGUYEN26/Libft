@@ -1,3 +1,3 @@
 # Libft
 Repository of my Libft project. \
-![](https://geps.dev/progress/125)
+![](https://progress-bar.dev/125?title=Score)
