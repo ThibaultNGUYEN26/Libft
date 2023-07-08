@@ -1,4 +1,4 @@
 # Libft
 Repository of my Libft project.
-### Ta propre bibliothèque rien que pour toi
+### Your very first own library
 ![](https://progress-bar.dev/125?title=Score)
